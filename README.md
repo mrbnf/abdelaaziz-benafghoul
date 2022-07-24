@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @abdelaaziz-benafghoul
-- 👀 I’m a python app developer for multi-plateform
-(Linux, Windows, OS X, Android, iOS, and
-Raspberry Pi) using kivy and KivyMD frameworks
-I am good in networking, security ,embedded
-system and Computer vision
+- 👋 Hi, I’m @abdelaaziz-benafghoul i am  engineer in Computer system engineering i am graduated from Higher School of Computer Science 08 May 1945 - Sidi Bel Abbes Algeria.
 
-- 🌱 I’m currently learning computer vision and deep learning
+- 👀 I`m Blockchain Developer using solidity  · Python Developer ·   multi-plateform Developer using flutter.
+I am good in networking, security ,embedded
+system and IA.
+
+
 
 
 <!---
